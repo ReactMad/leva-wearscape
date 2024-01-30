@@ -1,8 +1,7 @@
 {
   "name": "@daniel10250907/leva-dan",
-  "version": "0.0.7",
+  "version": "0.0.9",
   "license": "MIT",
-  "private": false,
   "workspaces": [
     "packages/*",
     "demo"
